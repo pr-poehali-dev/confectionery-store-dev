@@ -36,6 +36,27 @@ const products: Product[] = [
     price: 65,
     image: 'https://avatars.mds.yandex.net/i?id=b2d4b31b7c90d4addf42dd1470551935d8ff4681-5869421-images-thumbs&n=13',
     description: 'Нежное тесто с сочной сосиской - идеальный перекус'
+  },
+  {
+    id: 3,
+    name: 'Круассан',
+    price: 120,
+    image: 'https://cdn.poehali.dev/projects/8036eb89-49de-4b13-9a58-8a685d1c722f/files/5b20c148-dc4c-4adc-827b-bf650689595d.jpg',
+    description: 'Воздушный французский круассан с хрустящей корочкой'
+  },
+  {
+    id: 4,
+    name: 'Эклер шоколадный',
+    price: 95,
+    image: 'https://cdn.poehali.dev/projects/8036eb89-49de-4b13-9a58-8a685d1c722f/files/0174bb1d-9318-471e-9d13-aa0680eb0ead.jpg',
+    description: 'Нежный эклер с заварным кремом в шоколадной глазури'
+  },
+  {
+    id: 5,
+    name: 'Булочка с корицей',
+    price: 75,
+    image: 'https://cdn.poehali.dev/projects/8036eb89-49de-4b13-9a58-8a685d1c722f/files/d8530241-fa5f-4e2a-aad8-8b01e8172433.jpg',
+    description: 'Ароматная булочка с корицей и сливочной глазурью'
   }
 ];
 
